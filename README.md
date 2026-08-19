@@ -49,6 +49,14 @@ Migración y mantenimiento de una web mediante PHP, PrestaShop y JavaScript, ade
 
 Estoy recopilando proyectos de diferentes etapas de mi formación y experiencia en desarrollo de software, Inteligencia Artificial, Python y automatización.
 
+### 📱 SaluTd
+Aplicación web para el registro y seguimiento personal de tensión arterial y glucemia.
+
+**Tecnologías:** HTML · CSS · JavaScript · Bootstrap · localStorage · jsPDF
+
+🔗 [Ver proyecto en GitHub](https://github.com/Aruizzapata/salutd)  
+🌐 [Ver aplicación online](https://aruizzapata.github.io/salutd/)
+
 ### 📱 Desarrollo Android
 Aplicaciones y proyectos desarrollados con Java, Kotlin y Android Studio.
 
