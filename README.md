@@ -2,82 +2,76 @@
 
 ### Desarrollador de Software | Android · Java · Kotlin | IA · Automatización
 
-Desarrollador de software con experiencia en desarrollo de aplicaciones Android y soluciones digitales.
+Desarrollador de software especializado en desarrollo Android, con experiencia en Java, Kotlin y tecnologías web. Actualmente ampliando conocimientos en Inteligencia Artificial, Python y automatización de procesos.
 
-Mi experiencia profesional se centra principalmente en Java, Kotlin, Android Studio, APIs REST y bases de datos. Actualmente estoy ampliando mi perfil hacia Python, Inteligencia Artificial y automatización de procesos mediante formación especializada en Automation & AI.
+## 👨‍💻 Sobre mí
 
-Me interesa especialmente la creación de soluciones eficientes que combinen desarrollo de software, Inteligencia Artificial y automatización.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y cuento con experiencia en desarrollo de aplicaciones Android y proyectos web.
+
+Actualmente estoy orientando mi perfil hacia la combinación de desarrollo de software, Inteligencia Artificial y automatización.
 
 ## 🛠️ Tecnologías
 
-**Lenguajes**
-Java · Kotlin · Python · PHP · JavaScript
-
-**Android**
-Android Studio · Android SDK · APIs REST · SQLite
-
-**Bases de datos**
-MySQL · SQL
-
-**Web y herramientas**
-HTML · CSS · JavaScript · PHP · WordPress · PrestaShop · Eclipse · PyCharm
+**Desarrollo**
+- Java
+- Kotlin
+- Android Studio
+- HTML5
+- CSS3
+- JavaScript
+- SQL
 
 **IA y automatización**
-Inteligencia Artificial · IA generativa · n8n
+- Inteligencia Artificial
+- Python
+- n8n
+- Automatización de procesos
 
-**Otros**
-UX/UI básico · Documentación técnica
-
-## 💼 Experiencia
-
-### Desarrollador Android — Tragsatec
-**2023–2025**
-
-Desarrollo e implementación de aplicaciones Android utilizando Java y Android Studio, trabajando con bases de datos SQLite, APIs REST e interfaces web complementarias.
-
-### Desarrollador Android — Innocare S.L.U.
-**2022–2023**
-
-Desarrollo de una aplicación móvil Android con Kotlin y Android Studio, junto con un portal web para consulta y gestión de datos mediante PHP, WordPress y MySQL.
-
-### Técnico Web Junior — Colorex Imagen S.L.
-**2019–2020**
-
-Migración y mantenimiento de una web mediante PHP, PrestaShop y JavaScript, además de gestión y actualización de productos y contenidos.
+**Herramientas y tecnologías adicionales**
+- Bootstrap
+- Tailwind CSS
+- Git
+- GitHub
+- localStorage
+- jsPDF
 
 ## 📂 Proyectos
 
-Estoy recopilando proyectos de diferentes etapas de mi formación y experiencia en desarrollo de software, Inteligencia Artificial, Python y automatización.
-
 ### 📱 SaluTd
+
 Aplicación web para el registro y seguimiento personal de tensión arterial y glucemia.
 
-**Tecnologías:** HTML · CSS · JavaScript · Bootstrap · localStorage · jsPDF
+**Tecnologías:** HTML5 · CSS3 · JavaScript · Bootstrap · localStorage · jsPDF
 
-🔗 [Ver proyecto en GitHub](https://github.com/Aruizzapata/salutd)  
 🌐 [Ver aplicación online](https://aruizzapata.github.io/salutd/)
 
-### 📱 Desarrollo Android
-Aplicaciones y proyectos desarrollados con Java, Kotlin y Android Studio.
+💻 [Ver código en GitHub](https://github.com/Aruizzapata/salutd)
 
-### 🤖 Inteligencia Artificial
-Proyectos relacionados con Inteligencia Artificial y aplicaciones prácticas.
+---
 
-### ⚙️ Automatización
-Workflows y soluciones de automatización desarrollados mediante herramientas como n8n.
+### 🎮 Breakout Game
 
-### 🐍 Python
-Proyectos desarrollados durante mi formación en programación con Python.
+Juego tipo Breakout desarrollado utilizando JavaScript y HTML5 Canvas, con sistema de puntuación, vidas, colisiones y diferentes estados de juego.
+
+**Tecnologías:** HTML5 · JavaScript · Canvas API · Tailwind CSS
+
+🌐 [Ver juego online](https://aruizzapata.github.io/breakout-game/)
+
+💻 [Ver código en GitHub](https://github.com/Aruizzapata/breakout-game)
 
 ## 🎓 Formación
 
-- **Máster en Automation & AI** — Nuclio Digital School · En curso
-- **Curso de Python (350 h)** — Deusto Formación · En curso
-- **Máster en Inteligencia Artificial e Innovación** — Founderz · 2025
-- **Análisis de Datos con IA y Aplicaciones Avanzadas** — FEVAL · 2025
-- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** — IES Donoso Cortés · 2019
-- **Técnico en Sistemas Microinformáticos y Redes** — IES Pedro Alfonso de Orellana · 2016
+- Máster Online en Inteligencia Artificial e Innovación — Founderz
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+- Técnico en Sistemas Microinformáticos y Redes
+
+## 📚 Actualmente aprendiendo
+
+- Python
+- Inteligencia Artificial
+- Automatización de procesos
+- Desarrollo de aplicaciones y soluciones basadas en IA
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/angelruizzapata92/)
+Estoy interesado en oportunidades profesionales relacionadas con desarrollo de software, Android, Java, Kotlin, Inteligencia Artificial y automatización.
