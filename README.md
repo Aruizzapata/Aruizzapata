@@ -2,40 +2,39 @@
 
 ### Desarrollador de Software | Android · Java · Kotlin | IA · Automatización
 
-Desarrollador de software especializado en desarrollo Android, con experiencia en Java, Kotlin y tecnologías web. Actualmente ampliando conocimientos en Inteligencia Artificial, Python y automatización de procesos.
+Desarrollador de software con experiencia en aplicaciones Android y tecnologías web. Actualmente ampliando mi perfil hacia la Inteligencia Artificial y la automatización de procesos, combinando desarrollo de software y nuevas tecnologías para crear soluciones prácticas.
 
 ## 👨‍💻 Sobre mí
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y cuento con experiencia en desarrollo de aplicaciones Android y proyectos web.
+Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y cuento con experiencia profesional en desarrollo de aplicaciones Android y proyectos web.
 
-Actualmente estoy orientando mi perfil hacia la combinación de desarrollo de software, Inteligencia Artificial y automatización.
+Actualmente estoy orientando mi trayectoria hacia la combinación de desarrollo de software, Inteligencia Artificial y automatización.
 
 ## 🛠️ Tecnologías
 
 **Desarrollo**
-- Java
-- Kotlin
-- Android Studio
-- HTML5
-- CSS3
-- JavaScript
-- SQL
+- Java · Kotlin · Android Studio
+- HTML5 · CSS3 · JavaScript · SQL
 
 **IA y automatización**
-- Inteligencia Artificial
-- Python
-- n8n
-- Automatización de procesos
+- Inteligencia Artificial · Python
+- n8n · Automatización de procesos
 
-**Herramientas y tecnologías adicionales**
-- Bootstrap
-- Tailwind CSS
-- Git
-- GitHub
-- localStorage
-- jsPDF
+**Herramientas**
+- Bootstrap · Tailwind CSS
+- Git · GitHub · localStorage · jsPDF
 
-## 📂 Proyectos
+## 🚀 Proyectos destacados
+
+### 🎓 Mi paso por Nuclio Digital School
+
+Un recorrido por los proyectos desarrollados durante mi formación en Automation & AI.
+
+Cinco proyectos que reflejan el aprendizaje práctico, la experimentación con herramientas de automatización y el desarrollo de soluciones apoyadas en Inteligencia Artificial.
+
+En esta sección encontrarás la explicación de cada proyecto, sus principales funcionalidades, capturas reales, feedback recibido durante la formación y una demostración completa en vídeo.
+
+📂 [Explorar Mi paso por Nuclio](./MI-PASO-POR-NUCLIO/)
 
 ### 📱 SaluTd
 
@@ -47,11 +46,9 @@ Aplicación web para el registro y seguimiento personal de tensión arterial y g
 
 💻 [Ver código en GitHub](https://github.com/Aruizzapata/salutd)
 
----
-
 ### 🎮 Breakout Game
 
-Juego tipo Breakout desarrollado utilizando JavaScript y HTML5 Canvas, con sistema de puntuación, vidas, colisiones y diferentes estados de juego.
+Juego tipo Breakout desarrollado con JavaScript y HTML5 Canvas, con sistema de puntuación, vidas, colisiones y diferentes estados de juego.
 
 **Tecnologías:** HTML5 · JavaScript · Canvas API · Tailwind CSS
 
@@ -61,7 +58,8 @@ Juego tipo Breakout desarrollado utilizando JavaScript y HTML5 Canvas, con siste
 
 ## 🎓 Formación
 
-- Máster Online en Inteligencia Artificial e Innovación — Founderz
+- Máster en Automation & AI — Nuclio Digital School
+- Máster en Inteligencia Artificial e Innovación — Founderz
 - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 - Técnico en Sistemas Microinformáticos y Redes
 
@@ -70,8 +68,8 @@ Juego tipo Breakout desarrollado utilizando JavaScript y HTML5 Canvas, con siste
 - Python
 - Inteligencia Artificial
 - Automatización de procesos
-- Desarrollo de aplicaciones y soluciones basadas en IA
+- Soluciones basadas en IA
 
 ## 📫 Contacto
 
-Estoy interesado en oportunidades profesionales relacionadas con desarrollo de software, Android, Java, Kotlin, Inteligencia Artificial y automatización.
+Estoy interesado en oportunidades relacionadas con desarrollo de software, Android, Java, Kotlin, Inteligencia Artificial y automatización.
